@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+
+footer{
+    background-color: aquamarine;
+    color:aliceblue;
+    position: fixed;
+    bottom: 0;
+}
+
